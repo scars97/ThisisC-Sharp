@@ -1,0 +1,8 @@
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\bin\Debug\InterruptingThread.exe.config
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\bin\Debug\InterruptingThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\bin\Debug\InterruptingThread.pdb
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\obj\Debug\InterruptingThread.csproj.AssemblyReference.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\obj\Debug\InterruptingThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\obj\Debug\InterruptingThread.csproj.CoreCompileInputs.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\obj\Debug\InterruptingThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\InterruptingThread\obj\Debug\InterruptingThread.pdb

@@ -1,0 +1,8 @@
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\bin\Debug\AbortingThread.exe.config
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\bin\Debug\AbortingThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\bin\Debug\AbortingThread.pdb
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\obj\Debug\02_AbortingThread.csproj.AssemblyReference.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\obj\Debug\02_AbortingThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\obj\Debug\02_AbortingThread.csproj.CoreCompileInputs.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\obj\Debug\AbortingThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\AbortingThread\obj\Debug\AbortingThread.pdb

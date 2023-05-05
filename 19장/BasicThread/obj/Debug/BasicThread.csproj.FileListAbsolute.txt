@@ -1,0 +1,8 @@
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\obj\Debug\BasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\qktjd\Desktop\이것이 C#이다\19장\BasicThread\obj\Debug\BasicThread.pdb
